@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^weblog blog.php [L]
+RewriteRule ^about aboutme.php [L]
+RewriteRule ^projects projects.php [L]
+RewriteRule ^post/(.*) blog.php?post=$1 [L]
