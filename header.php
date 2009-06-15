@@ -7,7 +7,7 @@
     <base href = "<?php echo $serv; ?>" />
     <link rel="stylesheet" href="personal.css" type="text/css" />
     <link rel="icon" type="image/vnd.microsoft.icon" href="favicon.ico" />
-	<script type="text/javascript" src="jquery-1.3.1.min.js"></script>
+	<script type="text/javascript" src="jquery-1.3.2.min.js"></script>
     <script type="text/javascript" src="blog.js"></script>
     <script type="text/javascript" src="debug.js"></script>
 </head>
