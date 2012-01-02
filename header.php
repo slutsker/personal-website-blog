@@ -13,7 +13,7 @@
 </head>
 <body>
 <div id = "header">
-    <a href = "./">Sasha Slutsker</a>
+    <a href = "./">Kaarin Lysen</a>
     <a href = "weblog/">Weblog</a>
     <a href = "about/">About Me</a>
     <a href = "projects/">Projects</a>
